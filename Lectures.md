@@ -2,8 +2,44 @@
 - [Recording Links](https://intellitectsp.sharepoint.com/:f:/s/EWU-CSCD379-2022-Spring/EvQdR7Ht30tKr3TZn5B6qJYBmdO0FTfx1mTHoibSh2wvdA?e=qH6mSn)
 - This is an MS Teams link and everyone in the class should have access. If not, please contact an instructor.
 
+### Lecture 7 (4/26/22)
+- Complete the Leaderboard API
+- Unit testing the LeaderBoardService
+- Unit testing LeaderboardController
+  - Creating mocks for the ILogger and ILeaderBoardService
+- Integration testing the LeaderBoard API endpoints
+
+### Lecture 6 (4/21/22)
+- Creating an API project in C# with .NET 6
+- Introduction to APIs and program.cs
+- Controllers and Routing (get and post)
+- Creating an Azure Web App
+- Setting up a CI/CD for the Web App from GitHub
+- Adjusting CI/CD with 
+- Creating an API for the leaderboard
+- Ajusting the action with on: paths: - 'Wordle.api/**' and workflow_dispatch:
+
+### Lecture 5 (4/19/22)
+- npm run lintfix & it's importance
+- Assignment 2 overview
+- Vuetify Components Continued
+  - v-dialog
+  - v-menu
+- Vuetify themes
+- router-link
+- created/mounted functions
+
 ### Lecture 4 (4/14/22)
 - Keeping Git Fork in sync with class repo
+- Vuetify components
+  - v-card
+  - v-row
+  - v-col
+  - v-btn
+- Building your own components
+- slots
+- passing properties
+- interacting with your TS within your vue code
 
 ### Lecture 3 (4/12/2022)
 - TypeScript continued
