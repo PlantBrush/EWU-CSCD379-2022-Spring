@@ -6,7 +6,9 @@ name: Build and deploy ASP.Net Core app to Azure Web App - ApiWordle
 on:
   push:
     branches:
-      - main
+      - Assignment02
+    paths:
+      - 'Wordle.api/**'
   workflow_dispatch:
 
 jobs:
@@ -53,5 +55,5 @@ jobs:
         with:
           app-name: 'ApiWordle'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E24C1BB75B9D4D6FB995A9048FC512F8 }}
+          publish-profile: ${{ secrets.API_AZUREAPPSERVICE_PUBLISHPROFILE }}
           package: .
