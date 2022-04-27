@@ -8,7 +8,7 @@ The purpose of this assignment is to solidify your learning of:
 - Unit testing infrastructure using Jest
 - Creating a CI/CD pipeline with GitHub Actions
 - Deploying the site to Azure
-
+test
 ## Instructions
 
 1. Create a Nuxt app ❌✅
