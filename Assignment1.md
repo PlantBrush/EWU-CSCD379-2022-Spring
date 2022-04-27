@@ -1,7 +1,7 @@
 # EWU-CSCD378-2022-Spring
 
 ## Assignment 1
-test
+
 The purpose of this assignment is to solidify your learning of:
 
 - Building a Nuxt, Vue, Vuetify, TypeScript App
